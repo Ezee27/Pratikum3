@@ -81,7 +81,7 @@ hasil dari syntax / source code diatas adalah seperti berikut ini :
 
 ## LATIHAN 2
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/9b329a799a6e999ad0d62d0fa79e00a0392c3a39/Screenshot%202024-10-15%20135657.png)
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%202024-10-15%20135657.png)
 ```python
 a=int(input("masukkan nilai a:"))
 b=int(input("masukkan nilai b:"))
