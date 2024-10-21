@@ -173,6 +173,6 @@ setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar ya
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/0d670d30789235f363332c5840dee4a8416d3b68/Screenshot%202024-10-17%20223553.png)
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(26).png)
 
 jika pengguna memasukkan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak akan melanjutkan untuk meminta bilangan lebih lanjut
