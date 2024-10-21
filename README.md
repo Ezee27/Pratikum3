@@ -154,8 +154,7 @@ Untuk hasil dari String Format 2 adalah :
 # Flowchart Bilangan terbesar dari 3 buah bilangan
 ![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Gambar%20WhatsApp%202024-10-17%20pukul%2000.34.59_95aec777.jpg)
 # Program bilangan terbesar dari 3 buah yg di inputkan
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5d260e088cd8f193f1e60434f5cd10c240a56f19/Screenshot%202024-10-17%20222816.png)
-
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(25).png)
 melalui pernyataan kondisi if-else, program membandingkan bilangan pertama dengan bilangan kedua dan ketiga, dan seterusnya.
 
 Hasil output
