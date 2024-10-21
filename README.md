@@ -174,4 +174,5 @@ setiap angka yang diinputkan diperiksa apakah lebih besar dari angka terbesar ya
 Hasil output
 
 ![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(28).png)
+
 jika pengguna memasukkan angka 0, program akan memberi tahu bahwa tidak ada bilangan yang dimasukkan dan tidak akan melanjutkan untuk meminta bilangan lebih lanjut
