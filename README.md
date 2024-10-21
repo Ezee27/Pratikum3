@@ -137,8 +137,7 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output sebagai berikut :
 
-![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(23).png)
-
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(24).png)
 2 * String Format 2*
 Pada syntax atau source code string format dua akan menampilkan output berupa 2 output'an juga (seperti String Format 1, yaitu kanan dan kiri )
 Dengan ketentuan sebagai berikut :
