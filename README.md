@@ -145,8 +145,7 @@ Dengan ketentuan sebagai berikut :
 
 secara Default, .format() menggunakan rata kiri, angka ke kanan. kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan .format() sebagai berikut :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/deb296e96f491981b8dede207ba1eb8456c03837/Screenshot%202024-10-15%20141347.png)
-
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(23).png)
 Untuk hasil dari String Format 2 adalah :
 
 ## Tugas Latihan
