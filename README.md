@@ -47,7 +47,7 @@ print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :
 
-![gambar](https://github.com/Ezee27/Pratikum3/blob/main/Screenshot%202024-10-15%20133640.png)
+![gambar](https://github.com/Ezee27/Ezee27/blob/main/Screenshot%20Pemrograman)
 
 Penggunaan separator
 Pendeklarasian beberapa variable beserta nilainya
