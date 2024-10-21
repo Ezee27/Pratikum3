@@ -97,8 +97,7 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 Kita akan coba lagi untuk run file tersebut, maka akan muncul seperti gambar dibawah ini :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/2c18a50361f6617ac1c5624ae6ca16c2449b0885/Screenshot%202024-10-15%20140328.png)
-
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(22).png)
 String Format
 String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
