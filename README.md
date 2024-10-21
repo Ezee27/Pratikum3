@@ -159,7 +159,7 @@ melalui pernyataan kondisi if-else, program membandingkan bilangan pertama denga
 
 Hasil output
 
-![gambar](https://github.com/user-attachments/assets/b06c8ab8-aa9d-4d06-85c8-4ed954f4e51a)
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/Screenshot%20(26).png)
 
 untuk meminta pengguna untuk memasukkan tiga bilangan, 
 
