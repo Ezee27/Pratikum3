@@ -77,7 +77,7 @@ print(w,x,y,z,sep="-----")
 ```
 hasil dari syntax / source code diatas adalah seperti berikut ini :
 
-![gambar](https://github.com/andreanbadeh/fotoo/blob/5897a8fe928d65b7b12aa3a8408391ca3dfd490c/Screenshot%202024-10-15%20133703.png)
+![gambar](https://github.com/Ezee27/Fotoo.../blob/main/WhatsApp%20Image%202024-10-21%20at%2006.07.06_7117a51b.jpg)
 
 ## LATIHAN 2
 
